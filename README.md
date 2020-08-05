@@ -2,15 +2,15 @@
 
 # Breast Cancer Detection
 **Dependencies**:
-.pip install scipy
+- pip install scipy
 
-1.pip install numpy
+- pip install numpy
 
-1.pip install matplotlib
+- pip install matplotlib
 
-1.pip install pandas
+- pip install pandas
 
-1.pip install sklearn
+- pip install sklearn
 
 # Credit Card Fraud Detection
 
