@@ -2,7 +2,7 @@
 
 # Breast Cancer Detection
 **Dependencies**:
-1.pip install scipy
+.pip install scipy
 
 1.pip install numpy
 
