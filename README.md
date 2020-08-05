@@ -1,16 +1,16 @@
 # ML-Projects
 
 # Breast Cancer Detection
-**Dependencies**
-*pip install scipy
+**Dependencies**:
+1.pip install scipy
 
-*pip install numpy
+1.pip install numpy
 
-*pip install matplotlib
+1.pip install matplotlib
 
-*pip install pandas
+1.pip install pandas
 
-*pip install sklearn
+1.pip install sklearn
 
 # Credit Card Fraud Detection
 
