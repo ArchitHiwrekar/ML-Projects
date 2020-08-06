@@ -1,6 +1,8 @@
 # ML-Projects
 
 # Breast Cancer Detection
+In this project we are going to use cell data from Open source UCI repository for machine learning and then training KNN model as well as SVM to predict whether or not cell is benign or unhealthy 
+
 **Dependencies**:
 
 - pip install scipy
